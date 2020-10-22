@@ -1,0 +1,2 @@
+This is dummy file.
+Adding multiple lines of text to get hands on for git.
